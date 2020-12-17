@@ -18,7 +18,6 @@
   <!-- <link rel="stylesheet" href="login.css"> --> 
  </head> 
  <body> 
-  <!-- Create By Gean - (Brazilian) --> 
   <div id="container"> 
    <input type="radio" id="login" name="btn" checked> 
    <input type="radio" id="regis" name="btn"> 
