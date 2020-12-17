@@ -1,0 +1,13 @@
+body{
+  background-color: aliceblue;
+  text-align: center;
+}
+#container>*{
+  margin-bottom: 20px;
+}
+.inputBox{
+  margin-bottom: 20px;
+}
+.margin{
+  margin-bottom: 20px;
+}
